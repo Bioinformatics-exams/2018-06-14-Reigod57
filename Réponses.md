@@ -27,28 +27,49 @@ NM_004992.3:c.502C>T  donne NM_004992.3(MECP2_i001):p.(Arg168*)
 NM_004992.3:c.1335G>A donne NM_004992.3(MECP2_i001):p.(=)
 
 ### Q8
-NM : mRNA
-004992 : numéro du transcrit
-3 : version du transcrit
-(MECP2_i001) : nom du gène et numéro d'isoforme 
-p. signifie qu'on est au niveau de la séquence protéique
-(Arg168*) : substitution d'une Arginine par un codon stop ; (=) : non analysé mais aucun changement majeur attendu
-*** (https://www.hgvs.org/mutnomen/recs.html) ***
+La signification de cette notation est :
+**NM** : mRNA
+**004992** : numéro du transcrit
+**3** : version du transcrit
+**(MECP2_i001)** : nom du gène et numéro d'isoforme 
+**p.** signifie qu'on est au niveau de la séquence protéique
+**(Arg168*)** : substitution d'une Arginine par un codon stop en position 168 ; (=) : non analysé mais aucun changement majeur attendu
+(https://www.hgvs.org/mutnomen/recs.html)
 
 ### Q9
 Le premier variant a subit une variation non-sens.
 Le second variant est analysé comme variant synonyme.
 
 ### Q10
-c.502C>T	nombres de cas : 363 ;	fréquence : 7.66. Il est dit dans la plupart des cas que la mutation est présente chez les patientes atteintes. La mutation donne une protéine tronquée, les patientes présentent le syndrome de Rett.
-c.1335G>A	nombres de cas : 10	;   fréquence : 0.21. Il est dit dans la plupart des cas que la mutation est présente mais que les patients ne présentent pas le syndrome de Rett. Il est dit que c'est un polymorphisme siliencieux.
+**c.502C>T**	nombres de cas : 363 ;	fréquence : 7.66. Il est dit dans la plupart des cas que la mutation est présente chez les patientes atteintes. La mutation donne une **protéine tronquée**, les patientes présentent le syndrome de Rett.
+**c.1335G>A**	nombres de cas : 10	;   fréquence : 0.21. Il est dit dans la plupart des cas que la mutation est présente mais que les patients ne présentent pas le syndrome de Rett. Il est dit que c'est un **polymorphisme siliencieux**.
 
-Ainsi, de part la plus forte fréquence ainsi que la plus forte corrélation
+Ainsi, il est beaucoup plus probable que la mutation **c.502C>T** soit responsable du syndrome de Rett chez cette patiente. 
 
 (http://mecp2.chw.edu.au/cgi-bin/mecp2/views/basic.cgi?form=mut-freq-rev)
 (http://mecp2.chw.edu.au/cgi-bin/mecp2/search/process-search.cgi)
 
+### Q11
+**NM_004992.3:c.502C>T** donne **NC_000023.10:g.153296777G>A**.
+**NM_004992.3:c.1335G>A** donne **NC_000023.10:g.153295944C>T**.
 
+### Q12
+La signification de cette notation est :
+**NC** : complete genomic molécules (génome *théoriquement* complet)
+**000023** : chromosome 23 correspondant au chromosome X
+**10** version 10 du chromosome X
+**g.** : notation génomique
+**153296777G>A** : position du remplacement de la base G par une A ; **153295944C>T** : position du remplacement de la base C par une T
+
+### Q13
+**NC_000023.10:g.153296777G>A** n'est visiblement pas présent sur gnomAD.
+http://gnomad.broadinstitute.org/variant/X-153296777-G-A
+**NC_000023.10:g.153295944C>T** est présent sur gnomAD.
+http://gnomad.broadinstitute.org/variant/X-153295944-C-T
+
+### Q14
+**NC_000023.10:g.153295944C>T** est a donc une fréquence de **0.001394** dans la population générale.
+http://gnomad.broadinstitute.org/variant/X-153295944-C-T
 
 ## Exercice 2
 ### Q1
