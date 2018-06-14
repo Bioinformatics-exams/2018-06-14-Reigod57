@@ -111,5 +111,5 @@ Ces deux premiers critères permettent d'incriminer le variant et pas des causes
 ### Q7
 Le gène FBXO11 est un bon candidat pour la déficience intellectuelle car d'autres publications liant de gène FBXO11 et la déficience mentale ont été publiés, rapportant des mutaions faux-sens, d'épissage, et de frameshifts.
 De plus, FBXO11 est un gène lié aux protéines de la famille F-box, importante au niveau de la catalyse de l'ubiquitinylation dépendante de phosphorylation. Ainsi des mutations à ce niveau ont d'importantes conséquences.
-Des variants sur ce gène ont également présenté des anomalies types otite chronique, perte d'ouïe chez l'enfant etc..
+Des variants sur ce gène ont également présenté des anomalies types otite chronique, perte d'ouïe chez l'enfant etc...
 
