@@ -75,5 +75,19 @@ http://gnomad.broadinstitute.org/variant/X-153295944-C-T
 ## Exercice 2
 
 ### Q1
-a) OMIM database est une base de donnée qui dresse un catalogue de toutes les maladies connues en liant avec une composante génétique.
+a) OMIM database est une base de donnée qui dresse un catalogue de toutes les maladies connues en lien avec une composante génétique.
 b) DDG2P *(Developmental Disorders Genotype-Phenotype Database)* gene list est une liste de gènes reporté pour être associés avec des troubles du développement, compilés par des cliniciens.
+
+### Q2
+
+### Q3
+a) **NM_001190274.1** : NM signifie que l'on est dans un format en lien avec un mRNA ; **001190274** est le numéro du transcrit concerné ; **1.** signifie que l'on s'intéresse à la version 1 du transcrit.
+b) **HGVS** signifie Sequence Variant Nomenclature from the Human Genome Variation Society soit nomenclature des variantes de séquences de la Société de variation du génome humain
+c) **GRCh37/hg19 human genome assembly** : GRCh37 est la séquence de référence du génome humain version 37 (Genome Reference Consortium Human Build 37). hg19 en est un synonyme. On se base sur cette séquence de réference du génome humain pour comparer les séquences des autres patients. Cette séquence de référence est statistiquement la séquence "normale". Elle est régulièrement mise à jour. On utilise ici la version 37.
+
+### Q4
+La méthode utilisée pour l'exploration des patients 1 et 2 est le **Whole Exom Sequencing (WES)**. 
+
+Partant du principe que les séquences codantes ne représentent qu'une faible partie du génome mais concentrent 85% des mutations potentiellement responsables des maladies, des méthodes permettant de "capturer" l'ensemble des séquences codantes ("Whole Exome") et d'en déterminer la séquence ("Whole Exome Sequencing") ont été développées. Ces méthodes de "Whole Exome Sequencing" (WES) permettent d'identifier en théorie la quasi totalité des variations de séquences qui existent au niveau des séquences codantes entre des sujets atteints de la maladie multifactorielle et des sujets indemnes. On voit que cette approche WES est bien adaptée à la caractérisation des variants rares.
+
+
