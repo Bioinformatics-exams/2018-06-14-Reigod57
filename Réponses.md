@@ -1,6 +1,7 @@
 # UE génétique médicale examen 2018-06-14
 Jérémy Sornette
 URL du sujet : https://gist.github.com/Oodnadatta/fdc36ee1393b08a60361c98260a1194f
+
 ## Exercice 1
 
 ### Q1
@@ -72,7 +73,7 @@ http://gnomad.broadinstitute.org/variant/X-153295944-C-T
 http://gnomad.broadinstitute.org/variant/X-153295944-C-T
 
 ## Exercice 2
+
 ### Q1
-Texte de votre réponse…
-### Q2
-Texte de votre réponse…
+a) OMIM database est une base de donnée qui dresse un catalogue de toutes les maladies connues en liant avec une composante génétique.
+b) DDG2P *(Developmental Disorders Genotype-Phenotype Database)* gene list est une liste de gènes reporté pour être associés avec des troubles du développement, compilés par des cliniciens.
