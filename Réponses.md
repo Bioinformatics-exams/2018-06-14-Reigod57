@@ -90,4 +90,26 @@ La méthode utilisée pour l'exploration des patients 1 et 2 est le **Whole Exom
 
 Partant du principe que les séquences codantes ne représentent qu'une faible partie du génome mais concentrent 85% des mutations potentiellement responsables des maladies, des méthodes permettant de "capturer" l'ensemble des séquences codantes ("Whole Exome") et d'en déterminer la séquence ("Whole Exome Sequencing") ont été développées. Ces méthodes de "Whole Exome Sequencing" (WES) permettent d'identifier en théorie la quasi totalité des variations de séquences qui existent au niveau des séquences codantes entre des sujets atteints de la maladie multifactorielle et des sujets indemnes. On voit que cette approche WES est bien adaptée à la caractérisation des variants rares.
 
+### Q5
+Un séquençage de Sanger a été réalisé chez les patients concernés et chez leurs parents pour confirmer la présence d'un variant sur FBX011 ainsi que pour confirmer l'absence du variant chez les parents, permettant ainsi d'affirmer qu'il s'agit d'une mutation *de novo*.
+
+### Q6
+Les critères qui ont permis de classer les variants des patiens 1 et 2 comme délétères sont :
+- des parents sains, non consanguins, sans particularité notable.
+- naissance spontannée à terme
+Ces deux premiers critères permettent d'incriminer le variant et pas des causes autres liés aux parents.
+
+- taille et poids dans la limite basse
+- microcephaly
+- problème du développement osseux
+- retard de développement intellectuel
+- Investigation incluant EEG, test auditif, visuel etc.. normaux
+- examen biologique normal
+- atrophie cérébrale et hypertension intra-cranienne
+- anomalies de croissance 
+
+### Q7
+Le gène FBXO11 est un bon candidat pour la déficience intellectuelle car d'autres publications liant de gène FBXO11 et la déficience mentale ont été publiés, rapportant des mutaions faux-sens, d'épissage, et de frameshifts.
+De plus, FBXO11 est un gène lié aux protéines de la famille F-box, importante au niveau de la catalyse de l'ubiquitinylation dépendante de phosphorylation. Ainsi des mutations à ce niveau ont d'importantes conséquences.
+Des variants sur ce gène ont également présenté des anomalies types otite chronique, perte d'ouïe chez l'enfant etc..
 
